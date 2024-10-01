@@ -109,11 +109,13 @@ endmodule
 
 **FULL ADDER**
 
-![318332443-3411cbc7-4f76-4664-a513-e348a9880eff](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/5d286c1d-e62e-454a-a389-00ba2c2a91fc)
+![full addr](https://github.com/user-attachments/assets/5f9b69c6-931c-4932-818a-5edafa125bcd)
+
 
 **FULL SUBTRACTOR**
 
-![318332487-1cc068c4-6398-4a52-bae8-39c6657c0a9a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/03d5d030-815e-4847-a976-2fd282cf0333)
+![full subtr](https://github.com/user-attachments/assets/b504db02-434c-409d-b748-cbb71267e297)
+
 
 
 **Result:**
